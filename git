@@ -1,0 +1,40 @@
+
+git
+
+git is a version control system
+linus torvalds 2005
+create,manage respositories
+push,pull project
+clone project
+commit and staging control
+
+
+git hub
+
+github not git
+github makes tool use git
+
+
+config git
+git config --global user.name "KAMALESH-SB"
+git config --global user.email "kamaleshsb32@gmail.com"
+
+git init
+
+git status
+
+add
+git add git.txt
+
+git status
+
+git comit -m "gitcommit"
+
+
+git remote 
+git remote add origin https://github.com/KAMALESH-SB/Git.git
+
+
+git push origin master -f
+
+git pull link
